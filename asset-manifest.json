@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactFolioODada/static/css/main.b2ddf829.chunk.css",
-    "main.js": "/reactFolioODada/static/js/main.a0527fd5.chunk.js",
-    "main.js.map": "/reactFolioODada/static/js/main.a0527fd5.chunk.js.map",
+    "main.js": "/reactFolioODada/static/js/main.31b4fdd0.chunk.js",
+    "main.js.map": "/reactFolioODada/static/js/main.31b4fdd0.chunk.js.map",
     "runtime-main.js": "/reactFolioODada/static/js/runtime-main.66e4a4aa.js",
     "runtime-main.js.map": "/reactFolioODada/static/js/runtime-main.66e4a4aa.js.map",
     "static/css/2.2a86faee.chunk.css": "/reactFolioODada/static/css/2.2a86faee.chunk.css",
     "static/js/2.126b2ccd.chunk.js": "/reactFolioODada/static/js/2.126b2ccd.chunk.js",
     "static/js/2.126b2ccd.chunk.js.map": "/reactFolioODada/static/js/2.126b2ccd.chunk.js.map",
     "index.html": "/reactFolioODada/index.html",
-    "precache-manifest.286eb50f81841a029d49f524c0f2f1ac.js": "/reactFolioODada/precache-manifest.286eb50f81841a029d49f524c0f2f1ac.js",
+    "precache-manifest.723ec34aaa7abd5c34ce32b84081fbee.js": "/reactFolioODada/precache-manifest.723ec34aaa7abd5c34ce32b84081fbee.js",
     "service-worker.js": "/reactFolioODada/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/reactFolioODada/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.b2ddf829.chunk.css.map": "/reactFolioODada/static/css/main.b2ddf829.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.126b2ccd.chunk.js",
     "static/css/main.b2ddf829.chunk.css",
-    "static/js/main.a0527fd5.chunk.js"
+    "static/js/main.31b4fdd0.chunk.js"
   ]
 }
