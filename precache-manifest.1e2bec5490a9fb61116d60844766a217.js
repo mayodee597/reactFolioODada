@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7bc09c6d9f45e9ab21e3e0aff704340c",
+    "revision": "f98a4deb85bccbbaf74fd322de9b69c2",
     "url": "/reactFolioODada/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactFolioODada/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "42c0cc5d5b26a26e7eb5",
+    "revision": "715538492199df97fc8f",
     "url": "/reactFolioODada/static/css/main.b2ddf829.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactFolioODada/static/js/2.126b2ccd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42c0cc5d5b26a26e7eb5",
-    "url": "/reactFolioODada/static/js/main.837fe266.chunk.js"
+    "revision": "715538492199df97fc8f",
+    "url": "/reactFolioODada/static/js/main.3dce179a.chunk.js"
   },
   {
     "revision": "6190edfef8e67fe666bd",
